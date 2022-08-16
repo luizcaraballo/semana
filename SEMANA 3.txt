@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible"content="IE=edge">
+   <meta name="viewport"content="width-device-width,initial-scale-1.0">
+    <title>HTML5</title>
+</head>
+<body>
+<h1><font color="red"face="Verdana">SQL,Lenguaje estructurado de consultas</font></h1>
+<p><b>SQL,es un lenguaje</b>para<u>gestionar bases de datos estructuradas</u>se aplica en grandes empresas</p>
+<p><i>Lorem ipsum dolor sit amet,consectetur adipisicing elit.Itaque,ipsam nemo eligendi dicta accusamus minima ip
+<h2 style="color:blue;font-size:35px;font-family:jokerman;">HTML es un lenguaje de hipertexto para crear paginas
+</body>
+</html>
+
+
+
+1<!DOCTYPE html>
+2<html>
+3<head>
+4title PAGINA WEB CON HIPERVINCULOSEIMAGENES</title>
+5<meta name="author"content="HELADIO POLO CASTRO"/>
+6<meta lang="es">
+7<meta name="description"content="Pagina web de elementos">
+8<meta charset="utf-8">
+9<meta http-equiv="x-ua-compatible"content="IE-Edge">
+10</head>
+1body bgcolor="pink"
+12<marquee bgcolor=lightblue behavior="alternate"direction="right"style="font-size:35px;">PAGINA
+13<!-- Un anclaje interno -->
+14 <a name="INICIO"> </a> <br>
+5cl Seccion de hipervinculos -- >>
+16<h1 align="center">SECCION DE HIPERVINCULOS</h1>
+17<hr><center>
+18
+19
+    <a href="http://www.youtube.com" target="_blank"> VER VIDEOS EN YOUTUBE </a> <br> <br>
+    <a href="http://www.eltiempo.com" target="_blank" > VER NOTICIAS EL TIEMPO </a> <br> <br>
+20 <a href="http://www.incap.edu.co" target="_blank"> IRAINCAP Q10 </a> <br> <br>
+21 <a href="http://www.unigermana.edu.co" target="_blank"> IRAUNIGERMANA- CARRERAS PROFESIONALES</a
+22 <a href="http://www.as.com" target="_blank"> VER NOTICIAS DEPORTIVAS EN AS </a> <br> <br>
+13 <a href="web1.html" target="_blank"> VER TALLER HTML SEMANA2</a> <br> <br></center>
+24<hr>
+
+25
+26
+27
+28<center><img src="img/face.png"width="100"height="90"alt="facebook">
+29 cing src="img/twitter.png"width="100"height="90"alt="twitter">
+30
+31
+32<hr>
+33<!-- Seccion videos embebidos -->
+34<h2 align="center">SECCION DE VIDEOS EMBEBIDOS</h2>
+35 <br>
+36
+     <!-- Seccion redes sociales -->
+     <h2 align="center">SECCION DE REDES SOCIALES</h2>
+37
+38
+        <img src="ing/instagram.png"width="100"height="90"alt="instagram"></center>
+     <br> <br> <br>
+        <center><iframe width="560"height="315"src="https://www.youtube.com/embed/rbuYtrxg4"frameborder="0"a
+     <br>
+     <hr>
+39<h3 align="center">PROGRAMA DE DISEÑO GRAFICO</h3>
+40<p>Lorem ipsum dolor sit amet,consectetur adipiscing elit,sed do eiusmod tempor incididunt ut labore et dolo
+41
+42<p>At risus viverra adipiscing at in tellus integer feugiat scelerisque.Varius quam quisque id diam vel.Sit
+43</p>
+44 <br>
+ 45<!-- Anclaje interno con imagen -->
+46<center><a href="#INICIO"><img src="img/inicio.jpg"width-80 height=70 alt="inicio"></a></center>
+47 <br>
+ 48</body>
+ 49</html>
+ 50
